@@ -1,0 +1,20 @@
+[ja]
+  title = "Hugo Zzo Theme"
+  languageName = "日本語"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/ja"
+
+[en]
+  title = "Hugo Zzo Theme"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[ko]
+  title = "Hugo Zzo Theme"
+  languageName = "한국어"
+  weight = 3
+  languagedir = "ltr"
+  contentdir = "content/ko"
