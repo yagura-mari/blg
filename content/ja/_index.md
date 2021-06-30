@@ -27,7 +27,7 @@ header:
     title:
       - 足るを知る
     subtitle:
-      - DIY、おうち、ぴえぴえ
+      - 質素とコツコツを愛しているわ
     titleColor: 
     titleShadow: true
     titleFontSize: 44

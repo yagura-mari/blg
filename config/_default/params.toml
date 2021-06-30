@@ -1,6 +1,6 @@
 # logoText = "足るを知る"
 logoType = "short" # long, short
-description = "株、不動産、ライフハック"
+description = "大家、株、不動産、ライフハック"
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 # whoami
 myname = "矢倉 まり"
 # email = "~~@gmail.com"
-whoami = "大家"
+whoami = "2021年から大家。ITエンジニア。20代。"
 bioImageUrl = ""
 useGravatar = false
 location = "Tokyo, Japan"
