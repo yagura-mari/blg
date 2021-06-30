@@ -5,6 +5,7 @@ theme = "zzo"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
+publishDir = "docs"
 
 summaryLength = 70
 buildFuture = true

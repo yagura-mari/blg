@@ -1,11 +1,11 @@
 [[main]]
   identifier = "about"
-  name = "About"
+  name = "プロフィール"
   url = "about"
   weight = 1
 
 [[main]]
   identifier = "posts"
-  name = "Posts"
+  name = "記事一覧"
   url = "posts"
   weight = 2
