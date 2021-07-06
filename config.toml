@@ -1,8 +1,0 @@
-baseURL = "https://yagura-mari.github.io"
-languageCode = "ja"
-title = "aaa"
-# contentDir = "post"
-disableKinds = ["RSS", "sitemap"]
-theme = "zzo"
-[taxonomies]
-tag = "tags"

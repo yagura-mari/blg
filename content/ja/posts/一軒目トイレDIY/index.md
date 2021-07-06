@@ -4,7 +4,7 @@ title: 一軒目リビングのDIY
 date: 2020-06-20T12:00:06+09:00
 description: 一軒目の戸建てのセルフリフォーム。昭和の雰囲気からブルックリンスタイルへ。リビングのDIYでやったこと！窓枠をクロス巻き込みのデザインに加工。扉を黒、押入れの戸を白に塗装。周り縁、巾木を黒く塗装。昭和のプリント合板に壁紙を貼る。網戸の張替え。照明のスイッチを平成風に大きなボタンのものに。
 
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: true
