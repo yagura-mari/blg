@@ -21,8 +21,8 @@ categories:
 series:
 - 1軒目
 image: images/posts/clip.png
+meta_image: images/posts/clip.png
 ---
-<!-- どんな人に見せるのか？DIYをやっている人の参考になるように。いくらかかった？なにをした？詳細？ -->
 
 # 概要
 2021年1月から半年ほどかけて昭和な雰囲気の戸建てをブルックリンスタイルな内装にDIYでリフォームしました。そのビフォーアフターをまとめました。

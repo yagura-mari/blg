@@ -16,6 +16,7 @@ categories:
 series:
 - 
 image: images/posts/clip.png
+meta_image: images/posts/clip.png
 ---
 <!-- どんな人に見せるのか？DIYをやっている人の参考になるように。いくらかかった？なにをした？詳細？ -->
 
