@@ -3,7 +3,7 @@ title: 愚かにも塗料の缶を釘抜きで開けた話
 
 date: 2021-07-30T12:00:06+09:00
 description: 塗料(ペンキ)・ニスの缶の開け方。オープナーを使いましょう。
-draft: ture
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: true
