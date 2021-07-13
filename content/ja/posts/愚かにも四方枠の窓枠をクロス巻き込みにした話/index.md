@@ -3,7 +3,7 @@ title: 愚かにも四方枠の窓枠をクロス巻き込みにした話
 
 date: 2021-07-14T12:00:06+09:00
 description: 昭和風な四方枠の窓枠をクロス巻き込みにして今風に
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: true
