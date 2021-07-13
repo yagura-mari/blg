@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on 足るを知る</title>
+    <link>https://yagura-mari.github.io/categories/</link>
+    <description>Recent content in Categories on 足るを知る</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 13 Jul 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://yagura-mari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>DIY</title>
+        <link>https://yagura-mari.github.io/categories/diy/</link>
+        <pubDate>Tue, 13 Jul 2021 12:00:06 +0900</pubDate>
+        
+        
+        <guid>https://yagura-mari.github.io/categories/diy/</guid>
+        <description></description>
+        
+        <dc:creator>矢倉 まり</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
